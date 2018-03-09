@@ -1,0 +1,2 @@
+# LinkedInCrawler
+This is a web crawler used to extract people's open info from LinkedIn if we have their email or first name or last name or company name. All known info is stored in an formatted excel file. The crawler takes advantage of Google search engine, which lets Google to list all possible LinkedIn profiles, and extracts info from the first LinkedIn profile in that list. To use it, set your own cookies and your own file location.
